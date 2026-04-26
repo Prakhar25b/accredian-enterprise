@@ -4,9 +4,7 @@ A high-fidelity partial clone of the [Accredian Enterprise](https://enterprise.a
 
 ## 🚀 Live Demo
 
-**Vercel:** [Deploy yourself – see below]
-
-**GitHub:** [Your repo link here]
+🔗 [Vercel](https://accredian-enterprise-umber.vercel.app/), [GitHub](https://github.com/Prakhar25b/accredian-enterprise)
 
 ---
 
